@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    ccuser1:
+      email: vedanth.v@codecraft.co.in
+      name: ccuser1
+      password: "$2b$12$khVII57Nx1DuKIR6Eae0i.TzxVuUi3X5gcTnOSA4JhqRiubCV8Yey"
+
+cookie:
+  expiry_days: 1
+  key: "some_random_key"
+  name: "auth_cookie"
