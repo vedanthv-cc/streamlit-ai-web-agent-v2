@@ -1,0 +1,10 @@
+"""
+    1. navigate to "https://duckduckgo.com/" and Search for {keyword} and navigate to the News section.  
+    2. Click on the article number {article_number} and extract its content, including the title, body, and key details.  
+    3. If the article has a paywall, pop-up, or "Read More" button, bypass or extract the full content where possible.  
+    4. Analyze how well the content relates to {keyword} and classify the sentiment as:
+       - "Positive" → If {keyword} is the central theme.  
+       - "Neutral" → If {keyword} is mentioned but not the focus.  
+       - "Negative" → If the article is largely unrelated to {keyword}.  
+    5. Only return a summary of the article along with the sentiment classification (Positive, Neutral, or Negative).
+"""
